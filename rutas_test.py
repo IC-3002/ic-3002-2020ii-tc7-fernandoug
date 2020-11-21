@@ -1,6 +1,6 @@
 import unittest
 
-from rutas import encontrar_ruta
+from rutas import encontrar_ruta, encontrar_ruta_aux
 
 
 class PruebasRutas(unittest.TestCase):
